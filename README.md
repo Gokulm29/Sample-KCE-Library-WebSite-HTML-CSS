@@ -26,7 +26,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/Gokulm29/sample-kce-library-website.git
+git clone https://github.com/Gokulm29/Sample-KCE-Library-WebSite-HTML-CSS
 
 Navigate to the project directory:
 
