@@ -26,7 +26,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/username/sample-kce-library-website.git
+git clone https://github.com/Gokulm29/sample-kce-library-website.git
 
 Navigate to the project directory:
 
@@ -74,4 +74,4 @@ For any questions or suggestions, feel free to reach out to the project maintain
 
 Name: GOKUL M
 
-GitHub: 
+GitHub: https://github.com/Gokulm29
